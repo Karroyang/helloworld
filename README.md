@@ -1,2 +1,2 @@
 # helloworld
-learntouse
+learn how to use
